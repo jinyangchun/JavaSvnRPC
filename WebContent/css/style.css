@@ -84,7 +84,7 @@ body{margin-top:3.9em;}
 header,.features{background-color:#fff;}
 .partners{background-color:#f5f5f5;}
 header{padding:1em 0;z-index:999;}
-header .logo{float:left;height:30px;width:143px;background-image:url(img/bleum_logo.png);background-repeat:no-repeat;text-decoration:none;}
+header .logo{float:left;height:30px;width:143px;background-image:url(../img/bleum_logo.png);background-repeat:no-repeat;text-decoration:none;}
 header .menu ul{margin:0;padding:0;list-style-type:none;*zoom:1;float:right;margin-top:0.2em;}header .menu ul li{margin:0;padding:0;}
 header .menu ul li{float:left;margin-left:1.5em;}
 header .menu a{text-decoration:none;text-transform:uppercase;font-size:0.7em;font-weight:normal;color:#ccc;}header .menu a:hover{color:#777;}
@@ -107,7 +107,7 @@ footer{padding:2em 0;}footer .logo{display:block;margin:0 auto 0.2em auto;width:
 footer .menu ul{margin:0;padding:0;list-style-type:none;text-align:center;}footer .menu ul li{margin:0;padding:0;}
 footer .menu ul li{display:inline;}
 footer .menu ul a{text-transform:uppercase;font-size:0.7em;font-weight:normal;margin:0 0.5em;}
-footer a{color:#ffb6af;text-decoration:none;text-shadow:1px 1px 4px #2B6CA1;}footer a:hover{color:#fff;}
+footer a{color:#b3d4fc;text-decoration:none;text-shadow:1px 1px 4px #2B6CA1;}footer a:hover{color:#fff;}
 footer .copyright{text-align:center;color:#ff9f96;font-weight:300;text-transform:uppercase;font-size:0.6em;text-shadow:1px 1px 4px #2B6CA1;}
 .docs-heading{padding:0.3em 0;overflow:hidden;}.docs-heading h2{float:left;color:#fff;text-transform:uppercase;font-weight:300;font-size:1.4em;line-height:1.4em;text-shadow:1px 1px 4px #005EA2;}
 .docs-heading .sponsor{float:right;color:#fff;margin-top:6px;}.docs-heading .sponsor img{margin-left:1em;}
